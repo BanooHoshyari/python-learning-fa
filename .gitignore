@@ -1,0 +1,10 @@
+# Local only: private material, notebooks before metadata cleanup, and source resources
+/local-only/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite
